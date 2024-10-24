@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Copperplate';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Copperplate Gothic Std 29 AB'), url('/Fontes/Copperplate-Gothic-Std-29-AB.woff') format('woff');
+    }
+
+   .cabeçalho{
+    font-family: 'Copperplate';
+   } 
+    
+footer{
+    background-color:;
+
+}
+
